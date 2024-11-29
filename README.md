@@ -1,13 +1,13 @@
-1. XAMPP - MySQL - MariaDB 15.1
+I. XAMPP - MySQL - MariaDB 15.1
 Utilizado para gerenciamento do banco de dados
 
-2. Node.js
+II. Node.js
 Utilizado para o backend do projeto
 
-3. HTML - CSS - JavaScript
+III. HTML - CSS - JavaScript
 Utilizado para a construção do site
 
-4.5. Instruções para Uso do Site pelos Professores  
+IV.V. Instruções para Uso do Site pelos Professores  
 
 1. Acesso Inicial  
    - O site inicia com uma "tela de login" para professores.  
